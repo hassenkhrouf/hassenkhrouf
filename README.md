@@ -60,14 +60,6 @@ Full Stack **MERN** application for selling artwork online
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassenkhrouf&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassenkhrouf&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contact
 
 📧 hassen.khrouf@gmail.com  
