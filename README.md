@@ -1,66 +1,84 @@
-# Hi 👋 I'm Hassen Khrouf
+# Hi, I'm Hassen Khrouf 👋
 
-💻 Full Stack Developer from Tunisia  
-🚀 Passionate about building modern, scalable web applications  
+**Full-Stack Developer | MERN | Next.js | Angular | Spring Boot**
 
----
+I build modern web applications with a focus on clean architecture, REST APIs, database design, SEO, and production-ready deployment.
 
-## 🧑‍💻 About Me
-
-- Full Stack Developer working with **MERN Stack**
-- Experience with **Angular & Spring Boot**
-- Interested in **Microservices, APIs, and Cloud Deployment**
-- Previously worked remotely on **No-Code applications with Bubble.io**
-- Passionate about **AI, Blockchain and modern web technologies**
+Based in **Tunisia** 🇹🇳
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 What I Work With
 
-### Frontend
-React.js • Angular • Next.js • HTML5 • CSS3 • JavaScript • TypeScript • Tailwind • Bootstrap
+**Frontend**  
+React.js • Next.js • Angular • TypeScript • JavaScript • Tailwind CSS
 
-### Backend
+**Backend**  
 Node.js • Express.js • Spring Boot • REST APIs
 
-### Databases
-MongoDB • MySQL • PostgreSQL • Firebase
+**Databases**  
+MongoDB • PostgreSQL • MySQL • Firebase
 
-### DevOps & Tools
-Docker • Docker Compose • Git • Maven
+**DevOps & Tools**  
+Docker • Docker Compose • Git • Vercel • Maven
 
-### Blockchain
-Solidity • Ethereum • Web3.js • dApps
-
----
-
-## 📂 Featured Projects
-
-### 🧑‍💼 Employee Management System
-Full Stack application built with **Angular + Spring Boot + Microservices**
-
-- REST APIs with Spring Boot
-- Microservices architecture with Eureka & Gateway
-- Docker containerization
-
-🔗 https://github.com/hassenkhrouf/crud-employees-angular
-🌐 https://crud-employees-angular.vercel.app/
+**Other Experience**  
+Bubble.io • Solidity • Web3.js • Blockchain
 
 ---
 
-### 🛒 Shop-Art MERN E-commerce
-Full Stack **MERN** application for selling artwork online
+## ⭐ Featured Projects
 
-- React Single Page Application
+### 💼 Job Board
+SEO-first job platform built with Next.js, PostgreSQL and Prisma.
+
+- Public job discovery with search, filters and SEO-focused pages
+- Admin dashboard with authentication and full CRUD
+- AI-powered job import from URLs
+- JSON-LD structured data, sitemap and canonical URLs
+- Dockerized PostgreSQL development environment
+
+🔗 [Repository](https://github.com/hassenkhrouf/job-board)
+
+### 🛍️ Shop-Art MERN E-commerce
+Full-stack e-commerce platform for selling artwork online.
+
+- React frontend
 - Node.js / Express REST API
 - MongoDB database
+- Production deployment with Vercel
 
-🔗 https://github.com/hassenkhrouf/Shop-Art-Project  
-🌐 https://shop-art-project.vercel.app
+🔗 [Repository](https://github.com/hassenkhrouf/Shop-Art-Project)
+
+### 👨‍💼 Employee Management System
+Full-stack enterprise-style application using Angular and Spring Boot.
+
+- Angular frontend
+- Spring Boot REST API
+- Microservices architecture
+- Eureka service discovery and API Gateway
+- Docker containerization
+
+🔗 [Frontend](https://github.com/hassenkhrouf/crud-employees-angular)
+
+### 📊 React Admin Dashboard
+Modern admin dashboard built with React for managing application data and business workflows.
+
+🔗 [Repository](https://github.com/hassenkhrouf/React-Admin-Dashboard)
+
+---
+
+## 🎯 Currently Focused On
+
+- Building production-ready full-stack applications
+- Next.js, TypeScript and scalable backend architecture
+- AI-assisted development workflows
+- Cloud deployment and modern DevOps practices
 
 ---
 
 ## 📫 Contact
 
-📧 hassen.khrouf@gmail.com  
-💼 https://www.linkedin.com/in/hassenkhrouf
+📧 **hassen.khrouf@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/hassenkhrouf)  
+🐙 [GitHub](https://github.com/hassenkhrouf)
