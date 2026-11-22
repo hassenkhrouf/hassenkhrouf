@@ -1,8 +1,4 @@
-<!--
-  GitHub Profile README — draft for hassenkhrouf/hassenkhrouf
-  Replace the current README.md with this file.
-  Banner: upload assets/banner.png to the same repo, then uncomment the block below.
--->
+<!-- Banner: upload assets/banner.png to this repo, then uncomment the block below. -->
 
 <!-- <p align="center"><img src="./assets/banner.png" alt="Hassen Khrouf — Full-Stack Developer" width="100%" /></p> -->
 
@@ -89,7 +85,7 @@ Small task manager built to explore cross-platform mobile development.
 
 - Hardening the Job Board: tests, CI, and observability
 - Deepening Spring Boot and PostgreSQL architecture patterns
-- Writing about what I build
+- Exploring technical writing and open-source contributions
 
 ---
 
